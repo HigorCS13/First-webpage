@@ -2,6 +2,7 @@ body {
   margin: 0;
   text-align: center;
   font-family: 'Merriweather', serif;
+  color: #40514e;
 }
 
 h1 {
@@ -25,6 +26,9 @@ h3 {
 a {
   color: #11999E;
   text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
 }
 
 p {
@@ -132,7 +136,7 @@ hr {
   -webkit-border-radius: 8;
   -moz-border-radius: 8;
   border-radius: 8px;
-  font-family: Arial;
+  font-family: 'Montserrat', sans-serif;
   color: #ffffff;
   font-size: 20px;
   padding: 10px 20px 10px 20px;
@@ -152,3 +156,4 @@ hr {
 .fim {
   margin-bottom: 30px;
 }
+
